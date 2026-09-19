@@ -1,0 +1,11 @@
+---
+description: Core project guidance for this workspace
+alwaysApply: true
+---
+
+# Project Standards
+
+- Keep changes focused and minimal — only modify what the task requires.
+- Match existing naming, structure, and conventions in the codebase.
+- Prefer clear, self-documenting code over unnecessary comments.
+- Ask before making large architectural changes or adding new dependencies.
